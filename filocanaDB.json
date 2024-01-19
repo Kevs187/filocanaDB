@@ -5,6 +5,7 @@
 			"title" : "Bagnet",
 			"description" : "Bagnet is a Filipino dish referring to twice-cooked pork belly. This is a well-known specialty in Vigan, Ilocos which is often confused with lechon kawali. The difference is mainly on the cooking method. Lechon kawali is deep-fried only once, but bagnet is fried twice with much longer frying time.",
 			"image" : "https://3.bp.blogspot.com/-_EGizVJ4vFY/Unh5cTyXqlI/AAAAAAAACsU/5j6eacRCPco/s1600/bagnet+perfect+(2).JPG",
+			"keywords": "bagnet",
 			"ingredients" : [
 				"2 to 2 1/2 lbs. whole pork belly",
 				"1 medium red onion",
@@ -33,6 +34,7 @@
 			"title" : "Pinakbet",
 			"description" : "Pakbet or pinakbet is a popular vegetable dish that originated from one of the northern provinces of the Philippines, Ilocos. The vegetables used on this dish are usually grown in the back yard of every villager and are available almost all year long. Bitter Melon, eggplant, okra, and string beans are just some of the vegetables that make-up this delightful dish.",
 			"image" : "https://flyingketchup.ph/wp-content/uploads/2022/03/maxresdefault.jpg",
+			"keywords": "pakbet,pinakbet",
 			"ingredients" : [
 				"1 lb lechon kawali sliced",
 				"1 piece Knorr Shrimp Cube",
@@ -67,8 +69,9 @@
 		{
 			"id" : "00003",
 			"title" : "Vigan Empanada",
-			"description" : "Vigan Empanada is a popular snack sold in stalls and restaurants. Think of it as a half moon-shaped, taco-like snack. It’s typically made of eggs, grated green papaya, and skinless Vigan Longganisa, wrapped in a thin rice flour batter, and deep fried to a crisp. Each stall has their own variety (such as with meat or vegetarian) and portioning (double the meat or double all ingredients).",
+			"description" : "Vigan Empanada is a popular snack sold in stalls and restaurants. Think of it as a half moon-shaped, taco-like snack. It's typically made of eggs, grated green papaya, and skinless Vigan Longganisa, wrapped in a thin rice flour batter, and deep fried to a crisp. Each stall has their own variety (such as with meat or vegetarian) and portioning (double the meat or double all ingredients).",
 			"image" : "https://www.eagerexplorer.com/wp-content/uploads/2014/02/p1070953-e1434459175786.jpg",
+			"keywords": "vigan,vigan empanada,empanada",
 			"ingredients" : [
 				"1 1/2 cup Mochiko Rice Flour",
 				"1/2 cup Water",
@@ -94,9 +97,10 @@
 		},
 		{
 			"id" : "00004",
-			"title" : "Ilocos-style Miki Noodle Soup",
+			"title" : "Ilocos Miki Noodle Soup",
 			"description" : "This Filipino noodle soup is made with miki noodles, chicken stock, and annato powder (atsuete). The Ilocos-style miki noodle soup is usually served with boiled egg and is topped with ground bagnet (which they refer to as “chicharon”).",
 			"image" : "https://images.yummy.ph/yummy/uploads/2016/08/Ilokano-styleMiki640-1.jpg",
+			"keywords": "miki,noodle,noodle soup,Ilocos miki noodle soup",
 			"ingredients" : [
 				"2 tablespoons cooking oil",
 				"4 cloves Garlic crushed",
@@ -122,6 +126,7 @@
 			"title" : "Dinengdeng",
 			"description" : "Dinengdeng is a flavorful vegetable dish often mistaken for Pinakbet due to its similar cooking method and appearance. This vibrant dish is made with okra, eggplant, and bitter melon, cooked with bagoong, and served with rice.\n\nDinengdeng is different from Pinakbet because it typically uses green or yellow vegetables like malunggay leaves and fruits, squash, and squash blossoms. At the same time, Pinakbet contains the more colorful “Bahay Kubo” veggies. Grilled pieces of fish or other meat can also be added to the mix for an extra flavor.",
 			"image" : "https://i.ytimg.com/vi/-xd3CIYC3eQ/maxresdefault.jpg",
+			"keywords": "diningding,dinengdeng",
 			"ingredients" : [
 				"1 whole milk fish sliced and grilled",
 				"2 to 3 cups malunggay moringa leaves, cleaned",
@@ -151,6 +156,7 @@
 			"title" : "Igado",
 			"description" : "The succulent pork tenderloin and innards of Igado come together to create a unique and tasty dish. The sweet-and-sour notes of the pork, combined with the tangy flavor of Sukang Iloko, soy sauce, and pepper, make this dish a delight for the taste buds.",
 			"image" : "https://images.summitmedia-digital.com/yummyph/images/november_2015/igado-645.jpg",
+			"keywords": "igado,egado,gado",
 			"ingredients" : [
 				"1/2 lbs. pork tenderloin sliced into 2-inch strips",
 				"1/2 lb. pork liver sliced into 2-inch strips",
@@ -189,6 +195,7 @@
 			"title" : "Sinanglaw",
 			"description" : "Sinanglaw is a Filipino soup dish prepared with beef and beef offal flavoured with kamias and bile, nearly similar to pinapaitan.",
 			"image" : "https://www.angsarap.net/wp-content/uploads/2017/10/Sinanglaw-Wide.jpg",
+			"keywords": "sinanglaw,sinanglawan,sinang",
 			"ingredients" : [
 				"500 g beef brisket or any cheap cut, cubed",
 				"300 g beef tendons, cut into squares",
@@ -216,8 +223,9 @@
 		{
 			"id" : "00008",
 			"title" : "Tupig",
-			"description" : "Tupig, also known as intemtem, is a rice delicacy or kakanin that originated in the northwestern part of the Philippines, particularly the province of Pangasinan and the Ilocos region. These places are also where this sweet rice delicacy is the most popular and became their specialty kakanin. This is very evident whenever I’ve traveled to that part of the country on a bus. At every stop, local vendors will get on the bus and sell Tupig and other kakanin as snacks or pasalubongs to the passengers.",
+			"description" : "Tupig, also known as intemtem, is a rice delicacy or kakanin that originated in the northwestern part of the Philippines, particularly the province of Pangasinan and the Ilocos region. These places are also where this sweet rice delicacy is the most popular and became their specialty kakanin. This is very evident whenever I've traveled to that part of the country on a bus. At every stop, local vendors will get on the bus and sell Tupig and other kakanin as snacks or pasalubongs to the passengers.",
 			"image" : "https://i2.wp.com/www.panlasangpinoyrecipes.com/wp-content/uploads/2015/03/Tupig-Recipe.jpg?w=654&ssl=1",
+			"keywords": "tupig,pig,tu,tupi",
 			"ingredients" : [
 				"4 pcs mature coconut shredded",
 				"1 pc young coconut shredded",
@@ -242,6 +250,7 @@
 			"title" : "Vigan Longganisa",
 			"description" : "Vigan City celebrates its unique and flavorful Filipino longganisa with an annual festival every year. Vigan longganisa, also known as Ilocano longganisa, is a type of Filipino pork sausage originating from Vigan City, Ilocos Sur.",
 			"image" : "https://i.ytimg.com/vi/ytobUJZxLbc/maxresdefault.jpg",
+			"keywords": "longganisa,vigan longganisa",
 			"ingredients" : [
 				"1 kilo ground pork pigue or kasim 20% fat, 70% lean meat ratio.",
 				"1/4 cup garlic crushed and chopped",
@@ -271,6 +280,7 @@
 			"title" : "Poqui-Poqui",
 			"description" : "A beloved dish from Ilocos, Poqui-Poqui (also known as poki poki) is a delicious combination of grilled eggplant, onion, and tomatoes scrambled with egg. The eggplant is first cooked over an open flame, peeled, and mashed before being mixed with the other ingredients.",
 			"image" : "https://4.bp.blogspot.com/-34IOQyXI0L0/VHeiJ92kmtI/AAAAAAAAAUg/B7Be6uuGQqE/s1600/poqui%2Bpoqui%2B2.JPG",
+			"keywords": "poki poki,poqui poqui,puki puki",
 			"ingredients" : [
 				"2 large eggplants",
 				"2 tablespoons oil",
@@ -286,6 +296,93 @@
 				"Add tomatoes and continue to cook, mashing with the back of the spoon, until softened.",
 				"Add eggplant. Season with salt and pepper to taste.",
 				"Add beaten eggs, stirring to combine, and continue to cook until eggs are just set. Serve hot."
+			],
+			"video_link" : ""
+		},
+		{
+			"id" : "00011",
+			"title" : "Crispy Bagis",
+			"description" : "If you're looking for a crunchy and savory snack, you've got to try crispy Bagbagis! This Ilokano dish, also known as crispy isaw or chicharon bituka, is made with deep-fried pork intestines that are so crispy and crunchy you won't be able to get enough.",
+			"image" : "https://www.angsaraprecipes.com/wp-content/uploads/2017/03/Crispy-Bagbagis.jpg",
+			"keywords": "crispy,Bagis,crispy bagis,bagbagis,crispy bagbagis",
+			"ingredients" : [
+				"2 lbs. pre-cleaned pork large intestines",
+				"5 tablespoons coarse rock salt",
+				"5 pieces dried bay leaves dahon ng laurel",
+				"1 tablespoon whole peppercorn",
+				"Water for boiling",
+				"3 cups cooking oil"
+			],
+			"instructions" : [
+				"Clean the intestines well with running water.",
+				"Boil water in a large pot.",
+				"Once the water starts to boil, add the intestines. Boil for 15 minutes. Discard the water. Pour a clean batch of water on the pot. Boil with the intestines for 15 to 20 minutes. Discard one more time.",
+				"Pour the third batch of water in a pot. Let boil. Add 3 tablespoons rock salt, bay leaves, and peppercorn. Continue to boil in low to medium heat for 1 hour. Remove the intestine and let cool.",
+				"Cut the intestines crosswise into small pieces. Rub the remaining salt all over these and let it stay for 5 minutes.",
+				"Heat the oil in a large pot. Once the oil gets hot, deep-fry the intestines until crispy.",
+				"Remove the crispy intestines from the pot and arrange in a serving plate.",
+				"Serve with spicy vinegar. Share and enjoy!"
+			],
+			"video_link" : ""
+		},
+		{
+			"id" : "00012",
+			"title" : "Sapsapuriket",
+			"description" : "Sapsapuriket is an Ilocano cuisine of native chicken in its blood. Using the coconut milk and other ingredients, this very Ilocano dish is famous during special occasions in homes like birthday celebrations or anniversaries.\n\nDuring the Tobacco Festival 2017 of Candon City fiesta, a cooking contest was held and one of the dishes to be prepared was sapsapuriket. The Farmers Association of zone 3 composing Alex Almazan, Ismael Lozano and Elmer Perez presented this recipe of sapsapuriket.",
+			"image" : "https://3.bp.blogspot.com/-MWRac6GUtuY/WNka7W9uCNI/AAAAAAAABGk/h9Y9t6wZoJIJsmOpJKKQzJPme7fJ9l24ACLcB/s640/sapsapuriket.jpg",
+			"keywords": "sapsapuriket,sapsa,puriket,dinuguan,dinuguan manok,dinuguan native manok,dinuguan native chicken",
+			"ingredients" : [
+				"1 native chicken with its blood",
+				"1/4 butter",
+				"1 piece onion",
+				"1 ginger",
+				"3 cloves garlic",
+				"Ground pepper",
+				"Coconut milk",
+				"Seasoning"
+			],
+			"instructions" : [
+				"Prepare all the ingredients",
+				"Dissolve the butter in small heat.",
+				"Sauté the chicken meat with garlic, onion and ginger until the color become reddish.",
+				"Add small amount of water and let it boil making the meat tender.",
+				"Add the coconut milk.",
+				"Let it boil until the water decreases.",
+				"Add the chili pepper.",
+				"Add the chicken blood and stir thoroughly.",
+				"Sautee to taste with salt and seasoning.",
+				"Ready for plating"
+			],
+			"video_link" : ""
+		},
+		{
+			"id" : "00013",
+			"title" : "Buridibud",
+			"description" : "Buridibud is a vegetable soup dish similar to dinengdeng, the main difference is that this dish uses sweet potatoes as its main ingredient where it is cooked to the point that it's so soft it breaks down with the soup giving it a thicker texture.",
+			"image" : "https://i.pinimg.com/originals/77/90/22/77902250df9900772a04614ea21b28af.jpg",
+			"keywords": "buridibud,buri,dibud,ridi",
+			"ingredients" : [
+				"350g prawns, skin on",
+				"2 large sweet potatoes, sliced",
+				"1 long bitter gourd, sliced",
+				"1 large bunch pea shoots",
+				"1 dozen moringa fruit (drumsticks), skinned and sliced",
+				"2 pcs Asian eggplants, sliced",
+				"3 cups chicken stock",
+				"3 tbsp bagoong monamon",
+				"1 onion, sliced",
+				"4 cloves garlic, minced",
+				"1 tsp minced ginger",
+				"salt",
+				"freshly ground black pepper",
+				"oil"
+			],
+			"instructions" : [
+				"In a pot heat oil then sauté garlic, ginger and onion.",
+				"Add the chicken stock and half of the sweet potatoes, bring to a boil and simmer until sweet potatoes are really soft.",
+				"Add bitter gourd, sweet potatoes, moringa fruit and eggplants simmer for 7 minutes.",
+				"Add the bagoong monamon, prawns and pea shoots, cook for 3 more minutes.",
+				"Season with salt and freshly ground black pepper. Turn heat off then serve."
 			],
 			"video_link" : ""
 		}
