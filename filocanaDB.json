@@ -385,6 +385,69 @@
 				"Season with salt and freshly ground black pepper. Turn heat off then serve."
 			],
 			"video_link" : ""
+		},
+		{
+			"id" : "00014",
+			"title" : "Papaitan",
+			"description" : "",
+			"image" : "https://cdn.tasteatlas.com/images/dishes/05224c464e1042d696a00a2dce876547.jpg?m=facebook",
+			"keywords": "papaitan,papaetan,papa,itan,etan,pait",
+			"ingredients" : [
+				"1/2 lb ox tripe",
+				"1/2 lb cow’s small intestine",
+				"1/2 lb beef thinly sliced and chopped",
+				"1/2 lb cow’s heart",
+				"2 tbsp bile",
+				"2 thumbs ginger julienned",
+				"1 piece onion diced",
+				"6 cloves garlic crushed and chopped",
+				"8 cups water",
+				"4 to 6 pieces finger chilies",
+				"2 1/2 tablespoons salt",
+				"1/2 tablespoon ground black pepper",
+				"1 to 2 pieces lemon or 5 to 8 pieces calamansi",
+				"2 tablespoons cooking oil"
+			],
+			"instructions" : [
+				"Heat a cooking pot and pour-in 4 cups of water and put-in 1 tablespoon salt. Bring to a boil.",
+				"Put-in the ox tripe and small intestines and simmer until tender. This should take approximately 35 to 50 minutes.",
+				"Turn off heat. Remove the tender ox tripe and small intestines then slice. Set aside. Discard the water.",
+				"Heat a clean cooking pot and pour-in cooking oil.",
+				"When the oil is hot enough, sauté garlic, onion, and ginger.",
+				"Add the beef, heart, sliced intestines, and tripe then cook for about 3 to 4 minutes.",
+				"Add 1 1/2 tablespoon salt and ground black pepper then stir for a minute.",
+				"Pour-in remaining 4 cups of water and bring to a boil. Simmer for 40 minutes (you may add more water if needed).",
+				"Add bile then simmer for 5 minutes.",
+				"Add the finger chilies and squeeze-in the lemon juice then simmer for 3 minutes.",
+				"Turn off the heat and transfer to a serving bowl.",
+				"Serve hot. Share and enjoy!"
+			],
+			"video_link" : ""
+		},
+		{
+			"id" : "00015",
+			"title" : "Dinakdakan",
+			"description" : "Dinakdakan is an Ilocano dish that is made of grilled and boiled pig parts—it works as a delicious and tasty appetizer, too! The pig’s head, ears, and brains are some of the ingredients incorporated so as not to waste any part of the animal. Cooking methods such as grilling and boiling are used in making this dish because it makes the preparation of the dish much simpler. Adding chili also gives it a bit of a bite, making it the perfect pork dish to eat with loads of rice.",
+			"image" : "https://images.yummy.ph/yummy/uploads/2016/06/Dinakdakan-640-1.jpg",
+			"keywords": "",
+			"ingredients" : [
+				"1 kilo pig ears",
+				"1 kilo pig face (maskara)",
+				"1/4 kilo pigs brain",
+				"1 medium red onion sliced",
+				"6 Green Chili Pepper sliced",
+				"4 tablespoons Vinegar use Sukang Iloko",
+				"Salt to taste",
+				"Pepper to taste"
+			],
+			"instructions" : [
+				"Pour 6 to 8 cups water in a cooking pot. Let boil. Add salt and pepper. Add-in the pig ears and face. Set the heat to low and continue to boil for 50 to 60 minutes or until meat is fork tender. Strain and set aside.",
+				"Boil the pig s brains using a strainer (or a plastic container to avoid brain from disintegrating) and cook for 10 minutes or until they turn white. Remove cooked brains from heat and set aside.",
+				"Heat the grill. Grill the ears and face for 4 to 6 minutes per side or until it turns a bit crisp, but not burnt.",
+				"Remove the grilled pig parts from the grill. Let it cool down and start chopping into bite-size pieces.",
+				"Combine pig s brain and vinegar in a mixing bowl. Season with salt and pepper. Add the ginger, chili, onion, and salt, if needed. Add the chopped pig s face and ears."
+			],
+			"video_link" : ""
 		}
 	]
 }
